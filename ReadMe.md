@@ -9,7 +9,7 @@ To set up and install the ChatGPT Web Application, follow these steps:
 1. Clone the GitHub repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/akashpat1098/KnowWallet_Task
 ```
 
 2. Navigate to the project directory:
