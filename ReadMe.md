@@ -15,7 +15,7 @@ git clone https://github.com/akashpat1098/KnowWallet_Task
 2. Navigate to the project directory:
 
 ```bash
-cd chatgpt-web-app
+cd KnowWallet_Task
 ```
 
 3. Create a virtual environment:
